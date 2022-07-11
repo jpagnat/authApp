@@ -1,0 +1,14 @@
+.cerrarSesion {
+    margin-right: 15px
+}
+
+.form-login{
+    background-color: #e4dee4;
+    border-radius:8px;
+    box-shadow: 9px 7px 21px -3px rgba(0,0,0,0.83);
+    -webkit-box-shadow: 9px 7px 21px -3px rgba(0,0,0,0.83);
+    -moz-box-shadow: 9px 7px 21px -3px rgba(0,0,0,0.83);
+}
+.form-content {
+    padding:40px;
+}
